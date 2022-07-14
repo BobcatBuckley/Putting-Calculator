@@ -1,0 +1,52 @@
+@media only screen and (max-device-width: 480px) {
+    body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: black;
+        text-align: center;
+        font-size: 7px;
+        max-width: 200px;
+        max-height: 200px;
+    }
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: black;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 10px;
+}
+
+input{
+    text-align: center;
+}
+
+
+#result {
+display: block;
+background-color: black;
+color: blueviolet;
+border: 0ch;
+font-size: 15px;
+font-weight: 650;
+}
+
+
+#add, #clear #num{
+    width: 75%;
+    font-size: 5em;
+}
